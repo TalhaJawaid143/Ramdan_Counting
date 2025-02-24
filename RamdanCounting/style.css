@@ -1,0 +1,17 @@
+body{
+background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR02zmMP7gT1VYE2uZgX9ym-9mwzBI3TfzcDQ&s);
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.Ramadan{
+    text-align: center;
+    color: rgb(197, 29, 29);
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 10px;
+
+}
+
